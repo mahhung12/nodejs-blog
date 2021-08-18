@@ -31,3 +31,10 @@
  <!-- Template engines -->
 || - handlebars
 || - npm install express-handlebars
+
+
+
+<!-- Get value  -->
+
+method : get -> req.query.'key'
+method : post -> req.body.'key'
